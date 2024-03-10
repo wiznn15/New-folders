@@ -513,7 +513,7 @@ async function connectionUpdate(update) {
     const { jid, name } = conn.user;
     const currentTime = new Date();
     const pingStart = new Date();
-    const infoMsg = `▣╾────────────────────┈\n┆⏤͟͟͞͞ʙᴏᴛ sᴜᴄᴄᴇssғᴜʟʟʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ\n▣╾────────────────────┈\n┆→ꜰᴠɴᴋʏʏʙᴏᴛᴢᴢ-ᴍᴅᴠ7\n┆─╼「 ʟɪɴᴜx 」╾─\n┆→sʀɪᴘᴛ ʙʏ ʀɪɪxɢᴀɴᴢ ʜᴏsᴛɪɴɢ.`;
+    const infoMsg = `▣╾────────────────────┈\n┆⏤͟͟͞͞ʙᴏᴛ sᴜᴄᴄᴇssғᴜʟʟʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ\n▣╾────────────────────┈\KIRISAKI-ᴍᴅᴠ7\n┆─╼「 ʟɪɴᴜx 」╾─\n┆→sʀɪᴘᴛ ʙʏ WIZN ʜᴏsᴛɪɴɢ.`;
     conn.sendMessage(
       "6282245754509@s.whatsapp.net",
       {

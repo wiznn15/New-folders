@@ -32,7 +32,7 @@ let date = d.toLocaleDateString(locale, {
 });
 //TIME
 global.waktu = `${date}`;
-global.namabot = "KIRISAKI🍫";
+global.namabot = "KIRISAKI";
 global.v = "-";
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TI${wktuwib}`;
 global.bottime = `ᴛ ɪ ᴍ ᴍ ᴇ : ${wktuwib}`;
@@ -126,9 +126,8 @@ global.emojis = pickRandom([
 ]);
 
 //--------[WATERMARK]
-global.wm = "*KIRISAKI* - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ 汉 」"; //Main WM
-global.wm2 =
-  "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘*KIRISAKI* - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ🍫˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷";
+global.wm = "KIRISAKI - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ 汉 」"; //Main WM
+global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘KIRISAKI- Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ🍫˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷";
 global.wm3 = "*KIRISAKI* - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ";
 global.md = "*KIRISAKI* - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ";
 //-----[OWNER]
@@ -177,11 +176,11 @@ global.xyro = "3WIq7q3CWt";
 global.xzn = "konekocyz";
 global.wait = "『 ⎔ 𝙇𝙊𝘼𝘿𝙄𝙉𝙂... 』 *■■■■■□□□□* 80%";
 ///==================/thumbnail
-global.thumb = "https://telegra.ph/file/eb41d92151f5755a49b17.jpg"; //Main Thumbnail
-global.thumb2 = "https://telegra.ph/file/eb41d92151f5755a49b17.jpg";
-global.thumbbc = "https://telegra.ph/file/eb41d92151f5755a49b17.jpg"; //For broadcast
-global.giflogo = "https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4";
-global.thumblvlup = "https://telegra.ph/file/a3e66e0fa840b08236c75.jpg";
+global.thumb = "https://telegra.ph/file/8d4cb90585dd1d60b80dd.jpg"; //Main Thumbnail
+global.thumb2 = "https://telegra.ph/file/8d4cb90585dd1d60b80dd.jpg";
+global.thumbbc = "https://telegra.ph/file/8d4cb90585dd1d60b80dd.jpg"; //For broadcast
+global.giflogo = "https://telegra.ph/file/1fe7f2417efb5549921b9.mp4";
+global.thumblvlup = "https://telegra.ph/file/ad1373794a7742ce15f6e.jpg";
 global.footer =
   "꒷︶꒷꒥꒷ ‧₊˚ ꒰ ฅ˘*KIRISAKI* - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷";
 /*============== SOCIAL ==============*/
@@ -239,9 +238,9 @@ global.hwaifu = [
 //===[THUMBNAIL MENU]===
 
 global.thumbnailUrl = [
-  "https://telegra.ph/file/981b11f6360b9e09f065e.jpg",
-  "https://telegra.ph/file/981b11f6360b9e09f065e.jpg",
-  "hhttps://telegra.ph/file/981b11f6360b9e09f065e.jpg",
+  "https://telegra.ph/file/8d4cb90585dd1d60b80dd.jpgg",
+  "https://telegra.ph/file/8d4cb90585dd1d60b80dd.jpg",
+  "https://telegra.ph/file/8d4cb90585dd1d60b80dd.jpg",
 ];
 global.Pallmenu = [
   "https://telegra.ph/file/0f49959e6bac62ddc1f95.jpg",

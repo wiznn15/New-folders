@@ -318,7 +318,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
             showAdAttribution: true,
             forwardingScore: 2023,
             title: "*KIRISAKI* Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ🧸",
-            thumbnailUrl: "https://telegra.ph/file/574a8490479e528a381c8.jpg",
+            thumbnailUrl: "https://telegra.ph/file/a7936ff5aec4c262be923.jpg",
             sourceUrl: "https://chat.whatsapp.com/G2gform2odN5OjVInAiSMw",
             mediaType: 1,
             renderLargerThumbnail: true,
