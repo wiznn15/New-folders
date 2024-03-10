@@ -1,7 +1,7 @@
 {
-  "name": "𝖪𝗈𝗇𝖾𝗄𝗈 𝖡𝗈𝗍 𝖶𝗁𝖺𝗍𝗌𝖺𝗉𝗉",
+  "name": "koneko-bot-whatsapp",
   "version": "7.0.0",
-  "description": "𝖲𝖼𝗋𝗂𝗉𝗍 𝖡𝗈𝗍 𝖪𝗈𝗇𝖾𝗄𝗈 𝖵𝟩.𝟢.𝟢 𝖡𝗒 𝖱𝖾𝗒𝗓 𝖧𝖺𝗒𝖺𝗇𝖺𝗌𝗂 𝖳𝗁𝖾 𝖡𝖾𝗌𝗍 𝖡𝗈𝗍 𝖶𝗁𝖺𝗍𝗌𝖺𝗉𝗉",
+  "description": "Script Bot Koneko V8.0.0 By Reyz Hayanasi The Best Bot Whatsapp",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -59,7 +59,7 @@
     "didyoumean": "^1.2.2",
     "dotenv": "^16.3.1",
     "emoji-api": "^1.0.2",
-    "express": "^4.18.1",
+    "express": "^4.18.2",
     "ffmpeg": "^0.0.4",
     "file-type": "^18.0.0",
     "fluent-ffmpeg": "^2.1.2",
