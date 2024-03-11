@@ -1425,7 +1425,7 @@ export async function participantsUpdate({ id, participants, action }) {
 
           const welthum = "https://telegra.ph/file/33e8dc019eb818ece4dc2.jpg";
 
-          const byethum = "https://telegra.ph/file/abb7a563efd29007af571.jpg";
+          const byethum = "https://telegra.ph/file/db793905aaaa44a4cfafc.jpg";
 
           const lapor = `\n\n${emoji.mail} *NOTE:* Mau Sewa Bot? Ketik .owner`;
 
@@ -1684,7 +1684,7 @@ ${userTag} Perintah ini hanya dapat digunakan di Chat Pribadi !`,
 ${userTag} Perintah ini hanya untuk *Admin* grup !`,
     botAdmin: `*${emoji.botAdmin} ᴘᴇʀʜᴀᴛɪᴀɴ ʙᴏᴛ ᴀᴅᴍɪɴ*\n
 ${userTag} Jadikan bot sebagai *Admin* untuk menggunakan perintah ini !`,
-    unreg: `*${emoji.unreg} ᴘᴇʀʜᴀᴛɪᴀɴ ���ᴀꜰᴛᴀʀ*\n
+    unreg: `*${emoji.unreg} ᴘᴇʀʜᴀᴛɪᴀɴ �����������ᴀꜰᴛᴀʀ*\n
 ${userTag} Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*.daftar nama.umur*\n\nContoh: *#daftar ${m.name}.18* !`,
     nsfw: `*${emoji.nsfw} ᴘᴇʀʜᴀᴛɪᴀɴ ɴꜱꜰᴡ*\n
 ${userTag} NSFW tidak aktif, Silahkan hubungi Team Bot Discussion untuk mengaktifkan fitur ini !`,

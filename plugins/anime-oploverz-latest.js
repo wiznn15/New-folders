@@ -11,11 +11,7 @@ let handler = async (m, { conn }) => {
 		console.log(e)
 		m.reply(`Terjadi kesalahan atau server sedang mengalami gangguan.`)
 	}
-	// By Chandra XD
-	// Follow bang
-	// TikTok : @pnggilajacn
-	// Github : https://github.com/Chandra-XD
-	}
+
 handler.help = ['oploverzlatest']
 handler.tags = ['tools']
 handler.command = /^(oploverzlatest|oplolatest)$/i
