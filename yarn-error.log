@@ -2,7 +2,7 @@ Arguments:
   /usr/local/bin/node /opt/yarn-v1.22.19/bin/yarn.js install
 
 PATH: 
-  /usr/lib/git-core/:/usr/local/share/nvm/current/bin:/usr/local/share/npm-global/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/root/.local/bin
+  /usr/local/share/nvm/current/bin:/usr/local/share/npm-global/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/root/.local/bin
 
 Yarn version: 
   1.22.19
