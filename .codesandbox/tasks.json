@@ -16,8 +16,7 @@
     },
     "test2": {
       "name": "test2",
-      "command": "yarn test2",
-      "runAtStart": false
+      "command": "yarn test2"
     }
   }
 }
